@@ -6,7 +6,5 @@
     - Run: npm run dev (Alternatively: || npm start)
 
 ```
-
-#### Proceesed log files will be available in data/procesed_logs folder
-
+ Proceesed log files will be available in data/procesed_logs folder
 ```
